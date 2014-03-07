@@ -1,0 +1,5 @@
+/Users/lee/pro0307/hiworld/hiworld/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/lee/pro0307/hiworld/hiworld/bin/Debug/hiworld.exe.mdb
+/Users/lee/pro0307/hiworld/hiworld/bin/Debug/hiworld.exe
+/Users/lee/pro0307/hiworld/hiworld/obj/x86/Debug/hiworld.exe
+/Users/lee/pro0307/hiworld/hiworld/obj/x86/Debug/hiworld.exe.mdb
